@@ -1,0 +1,6 @@
+You can choose to use between:
+
+- Regular: If you are new to the plugin or you used version 1.1 (or below) and DIDN'T use RemoveByID, RemoveByName, SetCompletionByID, SetCompletionByName. They won't work with "Regular"
+- Compatibility: If you already have Version 1.1 (or below) and used RemoveByID, RemoveByName, SetCompletionByID, SetCompletionByName. They will still work.
+
+Take the .js from the appropriate folder and copy it in the js/plugin folder of your project.

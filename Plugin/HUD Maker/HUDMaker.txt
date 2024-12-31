@@ -1,0 +1,8 @@
+Terms of Use for completed Plugins (or early-access Plugins for Patrons):
+– These plugins may be used in both free and commercial games.
+– “SumRndmDde” or “SRDude” must be given credit and this website must also be linked.
+– You are allowed to edit and reuse the code directly as long as it’s for your own project, extension plugins, or built-in compatibility patches.
+– You are free to package, encrypt, compile, etc. as long as it’s being done to the project or code-base as a whole. However, while in their normal JavaScript form, please refrain from changing the filename and comment headers of the plugins.http://sumrndm.site/hud-maker-ultra/
+
+http://sumrndm.site/hud-maker-ultra/
+

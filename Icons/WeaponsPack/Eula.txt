@@ -1,0 +1,9 @@
+LICENSE: This pack may be used non commercially or commercially. Downloading and re-distributing for sale as an  asset pack is prohibited.
+
+Included in this pack are 50 FREE high quality epic weapon sprites made in 32x32 resolution, making them viable to fit the RPG Maker requirements, as well as any other low resolution game settings. They are best used as selectable icons for any UI in a fantasy or medieval themed realm.
+
+The files are in png format, and can be used with the colorful glow setting (more epicness!), or without, the choice is up to you!
+
+Credits are not required, but would be greatly appreciated!
+
+This asset pack is free, but if you could make any donation, that would be awesome!

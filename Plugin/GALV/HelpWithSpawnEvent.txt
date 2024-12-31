@@ -1,0 +1,11 @@
+Galv.SPAWN.event(eventId,'type',[data],'overlap',save);
+Galv.SPAWN.clear(mapId);
+Galv.SPAWN.clear(mapId,true);                                 
+Galv.SPAWN.unspawn(this);        
+
+
+EXAMPLES
+Galv.SPAWN.event(3,'xy',[5,20],'all'); // event 3 at x5 y20 on top of all
+Galv.SPAWN.event(5,'regions',[1],'all'); // event 5 at rand region 1 on all
+Galv.SPAWN.clear(0); // Remove normal events on current map
+Galv.SPAWN.clear(9,true); // Remove normal and saved events on map 9
